@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gnerv.ideamavenplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gnerv.ideamavenplug.MyBundle
 
 class MyApplicationService {
 
